@@ -1,4 +1,4 @@
-# Login Screen Using React JS <img src="React-icon.svg.png" alt="alt text" width="50" height="50">
+# Login Screen Using React JS
 
 ![alt text](/tela-de-login/src/Component/Assets/screen.png)
 
