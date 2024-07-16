@@ -1,6 +1,6 @@
 # Login Screen Using React JS <img src="React-icon.svg.png" alt="alt text" width="50" height="50">
 
-![alt text](/tela-de-login/src/Component/Assets/screen.png)
+![alt text]([/tela-de-login/src/Component/Assets/screen.png](https://github.com/Gabriel-Brunetto/React.js-Login-Screen/blob/master/src/Component/Assets/screen.png))
 
 ## How to run the project:
 
