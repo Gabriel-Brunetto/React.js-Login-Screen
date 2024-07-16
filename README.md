@@ -1,6 +1,6 @@
 # Login Screen Using React JS
 
-![alt text](/tela-de-login/src/Component/Assets/screen.png)
+![alt text](/src/Component/Assets/screen.png)
 
 ## How to run the project:
 
